@@ -1,5 +1,3 @@
-###    Selamlar herkese, bugün Kujira Network'ün (scriptsiz) node testine katılacağız, keyifli okumalar dilerim.
-
 # Sistem gereksinimlerimiz:
 ```
 4 cpu
@@ -157,5 +155,3 @@ kujirad tx staking create-validator --moniker="${MONIKER_NAME}" \
 ```
 
 Son olarak https://testnets.cosmosrun.info/kujira-harpoon-3/ kendimizi kontrol edelim.
-
-Teşekkürler..
