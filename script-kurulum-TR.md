@@ -1,8 +1,4 @@
-### Selamlar herkese, bugün Kujira Network'ün (scriptsiz) node testine katılacağız, keyifli okumalar dilerim.
-
-(Nodes guru'dan türkçeleştirilmiştir)
-
-Scriptsiz kurulum için: https://github.com/ruesandora/kujira-node-testnet-TR
+(Nodes guru'dan türkçeleştirilmiştir) Ruesandora'ya aittir. Kendisine çokça teşekkürler.
 
 # Sunucumuza baglandıktan sonra bu tek satır komut girmeniz yeterli:
 ```
